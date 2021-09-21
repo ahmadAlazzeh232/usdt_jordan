@@ -1,0 +1,9 @@
+ String init_App_Error = ' لقد حدث خطأ في تحميل التطبيق \n يرجى التأكد من إتصالك بالشبكة \n والخروج و إعادة المحاولة  ';
+ String welcomeText = 'مرحبا بك\n في خدمة العملات الرقمية  \n     ';
+ String WrongPassRePass = "الأرقام السؤية غير متطابقة";
+ String shortPass = "الرقم السؤي قصير ";
+String numberPhoneError = "أدخل رقم الهاتف من 10 خانات ";
+String emailerror = "البريد الإلكتروني غير صحيح";
+String nameFirstError = "الاسم المدخل قصير";
+String nameSecondError= "الاسم المدخل قصير";
+String conditions = "";
